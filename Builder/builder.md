@@ -102,5 +102,4 @@ Os Abstract Factories, Builders e Prototypes podem ser implementados como Single
 
 
 
-
-
+[asd](http://asd.com.br)
