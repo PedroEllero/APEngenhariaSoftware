@@ -89,7 +89,5 @@ No entanto, os padrões também podem cooperar: você pode usar o Decorator para
 Os designs que fazem uso intenso do Composite e do Decorator geralmente podem se beneficiar do uso do Prototype. A aplicação do padrão permite que você clone estruturas complexas em vez de reconstruí-las do zero.
 
 
-
-
-
+[Exemplo de código em python](https://github.com/PedroEllero/APEngenhariaSoftware/blob/main/Composite/Exemplo.py)
 
