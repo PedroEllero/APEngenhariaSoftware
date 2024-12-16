@@ -3,6 +3,8 @@
 
 Este atividade prática, é uma tradução do inglês para português, dos padrões de design: Builder, Composite e Iterator, do site [Refactoring guru](https://refactoring.guru/)
 
+Versões em português:
+
 
 [Builder](https://github.com/PedroEllero/APEngenhariaSoftware/blob/main/Builder/builder.md)
 
