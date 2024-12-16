@@ -97,3 +97,8 @@ Você pode usar o Factory Method junto com o Iterator para permitir que as subcl
 Você pode usar o Memento junto com o Iterator para capturar o estado atual da iteração e revertê-lo, se necessário.
 
 Você pode usar Visitor junto com Iterator para percorrer uma estrutura de dados complexa e executar alguma operação em seus elementos, mesmo que todos tenham classes diferentes.
+
+
+
+[Exemplo de código em python](https://github.com/PedroEllero/APEngenhariaSoftware/blob/main/Iterator/Exemplo.py)
+
